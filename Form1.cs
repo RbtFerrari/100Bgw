@@ -12,6 +12,7 @@ using System.Threading;
 namespace _100Bgw
 {
     //Ferrari Roberto 4*G
+    //Prova GitHub
     public partial class frmMain : Form
     {
         BackgroundWorker bgw1, bgw2;
